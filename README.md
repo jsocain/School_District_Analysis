@@ -3,10 +3,10 @@
 ## Overview of the school district analysis
 My task was to aggregate standardized test scores and student funding data and show trends in school performance.
 
-While conducting the analysis, evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. I was asked to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. I was asked to repeat the school district analysis and write up a report to describe how these changes affected the overall analysis.
+While conducting the analysis, evidence of academic dishonesty was discovered; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. I was asked to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. I was asked to repeat the school district analysis and write up a report to describe how these changes affected the overall analysis.
 
 ## Results
-- How is the district summary affected?
+- The school district summary was not affected by removing the Thomas High School 9th grade score. 
 - How is the school summary affected?
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 - How does replacing the ninth-grade scores affect the following:
