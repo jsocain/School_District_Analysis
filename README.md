@@ -22,8 +22,7 @@ I don't see any differences when removing the Thomas High School 9th grade test 
 I did notice some trends in my analysis. Specifically, high spending per student does not correlate with higher test scores, but smaller school size does.
 
 ### Scores by School Spending
-
-
+https://github.com/jsocain/School_District_Analysis/blob/main/Resources/Screen%20Shot%202021-07-17%20at%2012.25.34%20PM.png
 ### Scores by School Size
 
 ### Scores by School Type
